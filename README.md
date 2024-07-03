@@ -20,9 +20,9 @@ If you use this code please cite:
  Requirements:
  * python 3.7.11
  * pytorch 1.1.0
- * pytorch-msssim 0.2.1
  * torchvision 0.3.0
  * numpy 1.19.2
+ * h5py 3.8.0
 
 ### Directory
     main.py                             # main file for any rabbit
